@@ -1,0 +1,15 @@
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.csproj.AssemblyReference.cache
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.AssemblyInfoInputs.cache
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.AssemblyInfo.cs
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.csproj.CoreCompileInputs.cache
+D:\GB\4. C#\Seminar1_HW\HW\HW006\bin\Debug\net6.0\HW006.exe
+D:\GB\4. C#\Seminar1_HW\HW\HW006\bin\Debug\net6.0\HW006.deps.json
+D:\GB\4. C#\Seminar1_HW\HW\HW006\bin\Debug\net6.0\HW006.runtimeconfig.json
+D:\GB\4. C#\Seminar1_HW\HW\HW006\bin\Debug\net6.0\HW006.dll
+D:\GB\4. C#\Seminar1_HW\HW\HW006\bin\Debug\net6.0\HW006.pdb
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.dll
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\refint\HW006.dll
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.pdb
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\HW006.genruntimeconfig.cache
+D:\GB\4. C#\Seminar1_HW\HW\HW006\obj\Debug\net6.0\ref\HW006.dll
